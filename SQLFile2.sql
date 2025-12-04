@@ -1,0 +1,1 @@
+SELECT 'Hello for the second time'
